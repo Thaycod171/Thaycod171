@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=C566FF&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=FD5FFF&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
 
 <img src="https://i.gifer.com/PYh.gif" alt="Pixel Art" align="right" width="200">
 
