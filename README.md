@@ -42,14 +42,6 @@
 
 ---
 
-### 🌟 Profile Summary:
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thaycod171&theme=one_dark_pro"/>
-</div>
-
----
-
 ### 📬 Contact Me:
 
 <div> 
