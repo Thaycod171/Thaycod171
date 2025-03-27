@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=FF2ED7ED&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil+no+GitHub!!!)](https://git.io/typing-svg)
 
-<img src="![image](https://github.com/user-attachments/assets/a4667629-e994-49a9-b1ce-5e90b85c8bc9)" alt="Pixel Art" align="right" width="200">
+<img src="https://giffiles.alphacoders.com/145/14566.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
