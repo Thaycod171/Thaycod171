@@ -3,7 +3,6 @@
 <img src="https://giffiles.alphacoders.com/145/14566.gif" alt="Pixel Art" align="right" width="200">
 
 ### 🚀 About Me
-🚀 About Me
 👩‍💻 Faço Análise e Desenvolvimento de Sistemas e sou apaixonada por Análise de Dados!  
 📊 Transformando dados em insights e criando soluções eficientes.  
 🔍 Sempre aprendendo e buscando novos desafios no mundo tech!  
