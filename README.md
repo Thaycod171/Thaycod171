@@ -5,19 +5,18 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
-  <img align="center" alt="Cris-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
-  <img align="center" alt="Cris-AWS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
-
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Thay-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
+  <img align="center" alt="Thay-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="Thay-AWS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
+  <img align="center" alt="Thay-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thay-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Thay-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
 ### GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/anacristinaneves">
+  <a href="https://github.com/Thaycod171">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
