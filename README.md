@@ -7,7 +7,6 @@
 📊 Transformando dados em insights e criando soluções eficientes.  
 🔍 Sempre aprendendo e buscando novos desafios no mundo tech!  
 
-
 ---
 
 ### 🛠️ Technologies and Tools:
@@ -20,7 +19,6 @@
   <img align="center" alt="Thay-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Thay-Kotlin" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Thay-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
 </div><br>
 
 ---
@@ -29,12 +27,10 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Thaycod171">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api?username=Thaycod171&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&cache_seconds=86400" />
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaycod171&layout=compact&langs_count=7&theme=onedark&count_private=true&cache_seconds=86400" />
+    <img height="145px" src="https://github-readme-stats-thaycod171.vercel.app/api?username=Thaycod171&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <img height="145px" src="https://github-readme-stats-thaycod171.vercel.app/api/top-langs/?username=Thaycod171&layout=compact&langs_count=7&theme=onedark&count_private=true&cache_seconds=86400" />
   </a>
 </div>
-
-
 
 ---
 
