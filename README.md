@@ -5,7 +5,7 @@
 ### 🚀 About Me
 👩‍💻 Faço Análise e Desenvolvimento de Sistemas e sou apaixonada por Dados e Back-end!  
 📊 Transformando dados em insights e criando soluções eficientes.  
-🔍 Sempre aprendendo e buscando novos desafios no mundo tech!  
+🔍 Sempre aprendendo e buscando novos desafios no mundo tech!!
 
 
 ---
