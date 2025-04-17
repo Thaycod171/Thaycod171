@@ -42,7 +42,7 @@
 ### 🔥 GitHub Streak:
 
 <div align="center">
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaycod171&theme=one_dark_pro"/>
+  <img height="205px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaycod171&theme=one_dark_pro"/>
 </div>
 
 ---
