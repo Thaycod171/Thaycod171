@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=FD5FFF&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=F72786&center=true&lines=Bem-vindo+ao+meu+GitHub+!)
 <img src="https://64.media.tumblr.com/bc65033f9f8807e02ebf11d533c59047/ea318465fb6d235c-5d/s400x600/70768f5aa754eec01f0a32b0eedf889a8d163953.gifv" alt="Pixel Art" align="right" width="200">
 
 ### 🚀 About Me
