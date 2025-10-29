@@ -1,9 +1,15 @@
+<!-- 🌊 Onda Rosa -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFC0CB&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=FF66B2"  />
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&fontSize=70&fontColor=FFC0CB&fontAlign=50&fontAlignY=50&animation=fadeIn&color=FF66B2" />
 </div>
 
-###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F72786&center=true&width=435&lines=Bem-vindo+ao+meu+GitHub+!" alt="Digitando SVG" /></a>
+<!-- 💬 Texto de Boas-vindas -->
+<p align="center" style="margin-top:-40px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F72786&center=true&vCenter=true&width=480&lines=Bem-vindo+ao+meu+GitHub!" alt="Digitando SVG" />
+  </a>
+</p>
 
 <img src="https://64.media.tumblr.com/bc65033f9f8807e02ebf11d533c59047/ea318465fb6d235c-5d/s400x600/70768f5aa754eec01f0a32b0eedf889a8d163953.gifv" alt="Pixel Art" align="right" width="200">
 
