@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5001&pause=1000&color=FD5FFF&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
 
-<img src="https://i.gifer.com/PYh.gif](https://www.icegif.com/wp-content/uploads/icegif-7040.gif" alt="Pixel Art" align="right" width="200">
+<img src="https://64.media.tumblr.com/bc65033f9f8807e02ebf11d533c59047/ea318465fb6d235c-5d/s400x600/70768f5aa754eec01f0a32b0eedf889a8d163953.gifv" alt="Pixel Art" align="right" width="200">
 
 ### 🚀 About Me
 👩‍💻 Faço Análise e Desenvolvimento de Sistemas e sou apaixonada por Dados e Back-end!  
