@@ -5,11 +5,12 @@
 </div>
 
 <!-- 💬 Texto de Boas-vindas -->
-<p align="center" style="margin-top:-40px;">
+<p align="center" style="margin-top:-70px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F72786&center=true&vCenter=true&width=480&lines=Bem-vindo+ao+meu+GitHub!" alt="Digitando SVG" />
   </a>
 </p>
+
 
 <img src="https://64.media.tumblr.com/bc65033f9f8807e02ebf11d533c59047/ea318465fb6d235c-5d/s400x600/70768f5aa754eec01f0a32b0eedf889a8d163953.gifv" alt="Pixel Art" align="right" width="200">
 
