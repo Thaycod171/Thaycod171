@@ -65,6 +65,3 @@
   <a href="mailto:nunes2005.thayane11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Thaycod171/Thaycod171/output/snake.svg" alt="Snake animation" />
-
-###
