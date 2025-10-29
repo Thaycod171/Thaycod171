@@ -7,7 +7,7 @@
 <!-- 💬 Texto de Boas-vindas -->
 <p align="center" style="margin-top:-70px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F72786&center=true&vCenter=true&width=480&lines=Bem-vindo+ao+meu+GitHub!" alt="Digitando SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF3A94&center=true&width=435&lines=Bem-vindo+ao+meu+GitHub+!)](https://git.io/typing-svg)" />
   </a>
 </p>
 
