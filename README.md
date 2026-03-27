@@ -46,8 +46,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thaycod171&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaycod171&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thaycod171&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thaycod171&layout=compact&theme=radical"/>
 </p>
 
 ---
