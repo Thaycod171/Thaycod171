@@ -55,8 +55,8 @@
 ### 🔥 GitHub Streak:
 
 <div align="center">
-  <img height="205px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaycod171&theme=one_dark_pro"/>
-</div>
+  <img height="205px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thaycod171&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff"/>
+</div>>
 
 
 ### 🟡 Pac-Man
