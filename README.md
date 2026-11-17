@@ -5,7 +5,7 @@
 </div>
 
 <!-- 💬 Texto de Boas-vindas -->
-<p align="center" style="margin-top:-70px;">
+<p align="center" style="margin-top:-70px;"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=F72786&center=true&vCenter=true&width=480&lines=Bem-vindo+ao+meu+GitHub!" alt="Digitando SVG" />
   </a>
